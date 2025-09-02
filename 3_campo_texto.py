@@ -1,4 +1,4 @@
-# 3ª Digitação (Aqui) ⚠️ ✅ 😊
+
 import flet as ft
 
 def main(page: ft.Page):

@@ -1,5 +1,3 @@
-# Primeiro programa desenvolvido em Python
-
 import flet as ft
 
 def main(page: ft.Page):
